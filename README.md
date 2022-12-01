@@ -1,1 +1,1 @@
-Jounrey to FullStack!
+Journey to FullStack!
