@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    height: 100vh;
+    width: 65vw;
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+.heading {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.paragraph1 {
+    text-align: center;
+    color: #e6e6e6;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.paragraph2 {
+    text-align: left;
+    color: white;
+    font-size: 15.6px;
+    font-weight: bold;
+}
+
+.paragraph3 {
+    text-align: left;
+    color: #e6e6e6;
+    font-size: 13.6px;
+    font-weight: lighter;
+}
+
+.button {
+    background-color: orange;
+    height: 32px;
+    width: 70px;
+    color: white;
+    font-weight: bold;
+    font-size: 14.7px;
+    border-width: 1.8px;
+}
+
+.align {
+    text-align: center;
+}
+
+.paragraph4 {
+    text-align: center;
+    color: #e6e6e6;
+    font-size: 10.8px;
+    font-weight: lighter;
+    text-decoration: underline;
+}
